@@ -167,6 +167,7 @@ body {
 }
 
 .personal-exp {
+  font-size: larger;
   display: flex;
   flex-direction: column;
 }
