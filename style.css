@@ -9,7 +9,6 @@
 }
 
 body {
-  overflow: hidden;
   background-color: hsla(147, 0%, 0%, 1);
   background-image: radial-gradient(
       at 95% 93%,
